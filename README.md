@@ -30,5 +30,7 @@
 
 <hr>
 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="center"> Volte sempre! :wave: </h3>
 
