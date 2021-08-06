@@ -34,5 +34,5 @@
 
   ![Snake animation](https://github.com/RenanAlmeidaSilva/RenanAlmeidaSilva/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center"> Volte sempre! :wave: </h3>
+<h3 align="center">:wave: Volte sempre! :wave: </h3>
 
