@@ -5,10 +5,10 @@
 <h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
 
 <ul>
-    <li> :dart: Pontual;</li>
-    <li> :books: Faço graduação em <strong>Sistema da Informação</strong> na Impacta;</li>
-    <li> :video_game: No meu tempo livre -> <strong>videogame</strong>;</li>
-    <li> :swimmer: Pratico <strong>natação</strong>;</li>
+    <li> :dart: Pontual :dart:</li>
+    <li> :books: Faço graduação em <strong>Sistema da Informação</strong> na Impacta :books:</li>
+    <li> :video_game: No meu tempo livre -> <strong>videogame</strong> :video_game:</li>
+    <li> :swimmer: Pratico <strong>natação</strong> :swimmer:</li>
 </ul>
 
 <hr>
