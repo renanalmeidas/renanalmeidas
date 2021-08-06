@@ -1,8 +1,8 @@
-<h2 align="center"> :earth_americas: Hello World, I'am Renan! </h2>
+<h2 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h2>
 
 <hr>
 
-<h3> :space_invader: Um pouco sobre mim: </h3>
+<h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
 
 <ul>
     <li> :dart: Pontual;</li>
@@ -13,7 +13,7 @@
 
 <hr>
 
-<h3 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: </h3>
+<h3 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: :heavy_check_mark:</h3>
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40"/>
