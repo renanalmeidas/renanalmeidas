@@ -25,9 +25,11 @@
 <hr>
 
 <h3 align="center"> :pushpin: Me encontre: </h3>
+<div>
 
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/renanalmeidadasilva/)&nbsp;
 
+</div>
 <hr>
 
   ![Snake animation](https://github.com/RenanAlmeidaSilva/RenanAlmeidaSilva/blob/output/github-contribution-grid-snake.svg)
