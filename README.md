@@ -20,8 +20,8 @@
     <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/wordpress/wordpress-original.svg" alt="WordPress" height="40">
     <img src="http://www.web2py.com/init/static/images/web2py_logo.png" alt="Web2py" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="boostrap" height="40">
-    <img src="https://images.vectorhq.com/images/previews/aa6/t-i-logo-psd-462250.png" alt="Suporte" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="boostrap" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" alt="Windows" height="40">
 </p>
 
 <hr>
