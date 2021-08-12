@@ -19,6 +19,8 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40"/>
     <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="WordPress" height="40">
+    <img src="http://www.web2py.com/init/static/images/web2py_logo.png" alt="Web2py" height="40">
+    <img src="https://images.vectorhq.com/images/previews/aa6/t-i-logo-psd-462250.png" alt="Suporte" height="40">
     <img src="https://images.vectorhq.com/images/previews/aa6/t-i-logo-psd-462250.png" alt="Suporte" height="40">
 </p>
 
