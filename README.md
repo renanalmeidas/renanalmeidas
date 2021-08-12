@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="Python" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
     <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" alt="WordPress" height="40">
+    <img src="![image](https://user-images.githubusercontent.com/64547456/129216593-0e29f89e-f036-479a-aef0-1f028a067aef.png)" alt="WordPress" height="40">
     <img src="http://www.web2py.com/init/static/images/web2py_logo.png" alt="Web2py" height="40">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="boostrap" height="40">
     <img src="https://images.vectorhq.com/images/previews/aa6/t-i-logo-psd-462250.png" alt="Suporte" height="40">
