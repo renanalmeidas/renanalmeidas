@@ -1,6 +1,6 @@
 <h1 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h1>
 <p align="center">
-<img src="https://media0.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="500">
+<img src="https://66.media.tumblr.com/4e4f07c6116bf225530318481f8c25e3/tumblr_nehbjdxaJu1qdgc6io1_1280.gif" width="350">
 </p>
 
 <hr>
