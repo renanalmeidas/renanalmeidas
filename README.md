@@ -1,13 +1,11 @@
 <h1 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h1>
-<p align="center">
-</p>
+<img align="right" src="https://agenciadatecnologia.com.br/wp-content/uploads/2020/11/8143b9_6d9b39056fcd4946ba9667c07d32bd7d_mv2.gif" width="350">
 
 <hr>
 
 <h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
 
 <ul>
-    <img align="right" src="https://agenciadatecnologia.com.br/wp-content/uploads/2020/11/8143b9_6d9b39056fcd4946ba9667c07d32bd7d_mv2.gif" width="350">
     <li> :dart: Pontual :dart:</li>
     <li> :books: Faço graduação em <strong>Sistema da Informação</strong> na Impacta :books:</li>
     <li> :video_game: No meu tempo livre -> <strong>videogame</strong> :video_game:</li>
