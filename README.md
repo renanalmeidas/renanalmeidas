@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+<img src="https://giffiles.alphacoders.com/209/209661.gif" width="100">
 <h2 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h2>
 
 <hr>
