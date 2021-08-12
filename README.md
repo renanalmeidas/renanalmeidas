@@ -1,7 +1,6 @@
 <h1 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h1>
-<hr>
 <p align="center">
-<img src="https://giffiles.alphacoders.com/209/209661.gif" width="500">
+<img src="https://media0.giphy.com/media/l3q2XB76CaWPggiNW/giphy.gif" width="500">
 </p>
 
 <hr>
