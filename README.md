@@ -1,4 +1,4 @@
-<h2 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h2>
+<h1 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h1>
 <hr>
 <p align="center">
 <img src="https://giffiles.alphacoders.com/209/209661.gif" width="500">
