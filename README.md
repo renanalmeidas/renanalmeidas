@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://giffiles.alphacoders.com/209/209661.gif" width="1000">
+<img src="https://giffiles.alphacoders.com/209/209661.gif" width="500">
 </p>
 <h2 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h2>
 
