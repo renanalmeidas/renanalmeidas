@@ -1,3 +1,4 @@
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <h2 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h2>
 
 <hr>
