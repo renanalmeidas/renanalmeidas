@@ -1,6 +1,6 @@
 <h1 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h1>
 <p align="center">
-<img src="https://66.media.tumblr.com/4e4f07c6116bf225530318481f8c25e3/tumblr_nehbjdxaJu1qdgc6io1_1280.gif" width="350">
+<img src="https://agenciadatecnologia.com.br/wp-content/uploads/2020/11/8143b9_6d9b39056fcd4946ba9667c07d32bd7d_mv2.gif" width="350">
 </p>
 
 <hr>
