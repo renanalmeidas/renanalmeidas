@@ -30,12 +30,11 @@
 
 <hr>
 
-<h3 align="center"> :pushpin: Me encontre: :pushpin: </h3>
-<div align="center"> 
-    
-[![Linkedin Badge](https://img.shields.io/badge/LINKEDIN--0077b5?style=for-the-badge&logo=linkedin&logoColor=0077b5)](https://www.linkedin.com/in/renanalmeidadasilva/)&nbsp;
-
+<div align="center">
+<h3> :pushpin: Me encontre: :pushpin: </h3>
+<a href="https://www.linkedin.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="40"></a>
 </div>
+
 <hr>
 
   ![Snake animation](https://github.com/RenanAlmeidaSilva/RenanAlmeidaSilva/blob/output/github-contribution-grid-snake.svg)
