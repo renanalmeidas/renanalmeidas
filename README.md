@@ -32,7 +32,7 @@
 
 <div align="center">
 <h3> :pushpin: Me encontre: :pushpin: </h3>
-<a href="https://www.linkedin.com/in/renanalmeidadasilva/"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="40"></a>
+<a href="https://www.linkedin.com/in/renanalmeidadasilva/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="40"></a>
 </div>
 
 <hr>
