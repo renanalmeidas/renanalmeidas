@@ -1,6 +1,10 @@
 <h1 align="center"> :earth_americas: Hello World, I'am Renan! :earth_americas:</h1>
 <img align="right" src="https://agenciadatecnologia.com.br/wp-content/uploads/2020/11/8143b9_6d9b39056fcd4946ba9667c07d32bd7d_mv2.gif" width="350">
 
+<!--
+https://lh6.googleusercontent.com/proxy/hA269RTdrADMST9VtC-SCm9SmtTB3IMOo2H9KGOnEbhDA_4fCR27LsPJzLXzAoIyTfNA3GF7_LpbnmwmYnrBMPbBQZqoOVlEiYD2jszFc-g=s0-d
+-->
+
 <hr>
 
 <h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
