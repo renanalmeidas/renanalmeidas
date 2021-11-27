@@ -12,7 +12,7 @@
 <ul>
     <li> :dart: Pontual :dart:</li>
     <li> :books: Faço graduação em <strong>Sistema da Informação</strong> na Impacta :books:</li>
-    <li> :video_game: No meu tempo livre -> <strong>videogame</strong> :video_game:</li>
+    <li> :video_game: No meu tempo livre -> <strong>Lógica de Programação</strong> :video_game:</li>
     <li> :swimmer: Pratico <strong>natação</strong> :swimmer:</li>
 </ul>
 
