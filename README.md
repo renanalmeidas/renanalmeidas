@@ -30,7 +30,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="CSS" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="JS" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" height="40">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fjava_226777&psig=AOvVaw0AIMlEjJ89v-N0tfge2F1F&ust=1644070281054000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCuiJ2d5vUCFQAAAAAdAAAAABAD" alt="Vue" height="40">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-plain.svg" alt="Java" height="40">
+    <img src=" " alt="Spring" height="40">
+    <img src=" " alt="Angular" height="40">
+    <img src=" " alt="Spring Batch" height="40">
 </p>
 
 <hr>
