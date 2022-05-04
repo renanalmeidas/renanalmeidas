@@ -10,8 +10,8 @@
 <h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
 
 <ul>
-    <li> :dart: Pontual :dart:</li>
-    <li> :books: Faço graduação em <strong>Sistema da Informação</strong> na Impacta :books:</li>
+    <li> :dart: Primeiro nível superior com 19 anos :dart:</li>
+    <li> :books: Faço graduação em <strong>Sistema da Informação</strong> :books:</li>
     <li> :video_game: No meu tempo livre -> <strong>Lógica de Programação</strong> :video_game:</li>
     <li> :swimmer: Pratico <strong>natação</strong> :swimmer:</li>
 </ul>
