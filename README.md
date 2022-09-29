@@ -10,15 +10,15 @@
 <h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
 
 <ul>
-    <li> :dart: Primeiro nível superior com 19 anos :dart:</li>
-    <li> :books: Cursando bacharelado em <strong>Sistema da Informação</strong> :books:</li>
-    <li> :video_game: No meu tempo livre -> <strong>PS4</strong> :video_game:</li>
-    <li> :swimmer: Pratico <strong>natação</strong> :swimmer:</li>
+    <li> :dart: First higher level aged 19 :dart:</li>
+    <li> :books: Pursuing a bachelor's degree in <strong>Information System</strong> :books:</li>
+    <li> :video_game: In my spare time -> <strong>PS4</strong> :video_game:</li>
+    <li> :swimmer: I love <strong>swimming</strong> :swimmer:</li>
 </ul>
 
 <hr>
 
-<h3 align="center"> :heavy_check_mark: Algumas das minhas principais habilidades: :heavy_check_mark:</h3>
+<h3 align="center"> :heavy_check_mark: Some of my skills: :heavy_check_mark:</h3>
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="Python" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
@@ -38,7 +38,7 @@
 <hr>
 
 <div align="center">
-<h3> :pushpin: Me encontre: :pushpin: </h3>
+<h3> :pushpin: Find me: :pushpin: </h3>
 <a href="https://www.linkedin.com/in/renanalmeidadasilva/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="40"></a>
 </div>
 
@@ -46,5 +46,5 @@
 
   ![Snake animation](https://github.com/RenanAlmeidaSilva/RenanAlmeidaSilva/blob/output/github-contribution-grid-snake.svg)
 
-<h3 align="center">:wave: Volte sempre! :wave: </h3>
+<h3 align="center">:wave: Check back often! :wave: </h3>
 
