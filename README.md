@@ -7,7 +7,7 @@
 
 <hr>
 
-<h3> :space_invader: Um pouco sobre mim: :space_invader:</h3>
+<h3> :space_invader: A little about myself: :space_invader:</h3>
 
 <ul>
     <li> :dart: First higher level aged 19 :dart:</li>
