@@ -40,6 +40,7 @@
 <div align="center">
 <h3> :pushpin: Find me: :pushpin: </h3>
 <a href="https://www.linkedin.com/in/renanalmeidadasilva/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="40"></a>
+<a href="https://www.instagram.com/dev_facil" target="_blank"><img src="https://www.ufpb.br/arquivocentral/contents/icons/glossy-instagram-icon-png.png/@@images/ddbb1582-286c-4470-bec3-7db141c0393c.png" alt="Instagram" height="40"></a>
 </div>
 
 <hr>
