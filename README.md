@@ -46,7 +46,7 @@
 
 <hr>
 
-  ![Snake animation](https://github.com/renanalmeidas/renanalmeidas/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/renanalmeidas/renanalmeidas/blob/output/github-contribution-grid-snake.svg) -->
 
 <h3 align="center">:wave: Check back often! :wave: </h3>
 
