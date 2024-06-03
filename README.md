@@ -12,7 +12,7 @@
 <ul>
     <li> :dart: First higher level aged 19 :dart:</li>
     <li> :books: Pursuing a bachelor's degree in <strong>Information System</strong> :books:</li>
-    <li> :video_game: In my spare time -> <strong>PS4</strong> :video_game:</li>
+    <li> :books: In my spare time -> <strong>reading</strong> :books:</li>
     <li> :swimmer: I love <strong>swimming</strong> :swimmer:</li>
 </ul>
 
