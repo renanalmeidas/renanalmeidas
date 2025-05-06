@@ -25,7 +25,7 @@
     <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
     <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="boostrap" height="40"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="CSS" height="40">
-    <img src="https://www.vecteezy.com/png/27127463-javascript-logo-png-javascript-icon-transparent-png" alt="JS" height="40">
+    <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JS" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="Java" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" alt="Spring" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" alt="Angular" height="40">
