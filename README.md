@@ -36,7 +36,7 @@
 
 <div align="center">
 <h3> :pushpin: Find me: :pushpin: </h3>
-<a href="https://www.linkedin.com/in/renanalmeidadasilva/" target="_blank"><img src="https://www.vecteezy.com/png/18930480-linkedin-logo-png-linkedin-icon-transparent-png" alt="Linkedin" height="40"></a>
+<a href="https://www.linkedin.com/in/renanalmeidadasilva/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="Linkedin" height="40"></a>
 <a href="https://renanalmeidas.github.io/curriculo/" target="_blank"><img src="https://www.iconpacks.net/icons/1/free-pin-icon-48-thumb.png" alt="meuSite" height="40"></a>
 </div>
 
