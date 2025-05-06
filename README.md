@@ -22,13 +22,10 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="Python" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/html5/html5-original.svg" alt="HTML5" height="40"/>
-    <!-- <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
-    <img src="https://fossies.org/linux/web2py/extras/icons/web2py.gif" alt="Web2py" height="40"> -->
+    <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="boostrap" height="40">
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/windows8/windows8-original.svg" alt="Windows" height="40"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/css3/css3-original.svg" alt="CSS" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-original.svg" alt="JS" height="40">
-    <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue" height="40"> -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" alt="Java" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/spring/spring-original-wordmark.svg" alt="Spring" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-original.svg" alt="Angular" height="40">
@@ -41,12 +38,11 @@
 <h3> :pushpin: Find me: :pushpin: </h3>
 <a href="https://www.linkedin.com/in/renanalmeidadasilva/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" alt="Linkedin" height="40"></a>
 <a href="https://renanalmeidas.github.io/curriculo/" target="_blank"><img src="https://www.iconpacks.net/icons/1/free-pin-icon-48-thumb.png" alt="meuSite" height="40"></a>
-<!-- <a href="https://www.instagram.com/dev_facil" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/769px-Instagram-Icon.png" alt="Instagram" height="40"></a> -->
 </div>
 
 <hr>
 
-<!--   ![Snake animation](https://github.com/renanalmeidas/renanalmeidas/blob/output/github-contribution-grid-snake.svg) -->
+![Snake animation](https://github.com/renanalmeidas/renanalmeidas/blob/output/github-contribution-grid-snake.svg)
 
 <h3 align="center">:wave: Check back often! :wave: </h3>
 
