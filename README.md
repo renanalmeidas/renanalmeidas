@@ -20,7 +20,7 @@
 
 <h3 align="center"> :heavy_check_mark: Some of my skills: :heavy_check_mark:</h3>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" alt="Python" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" height="40"/>
     <img src="https://desenvolvimentoaberto.files.wordpress.com/2016/11/logoazuresql.png" alt="SQL" height="40">
     <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-plain.svg" alt="boostrap" height="40">
